@@ -1,4 +1,7 @@
 {
+  "short_name": "DeAuther",
+  "name": "Esp8266 DeAuther",
+  "start_url": "index.html"
 "sites":[
 	"error404.html",
 	"style.css",
